@@ -1,0 +1,1141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2018-05-14T13:05:24.2185857+06:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\cbiu</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>05/14/2018 13:05:15</publishTime>
+    </File>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>05/14/2018 13:05:15</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>05/14/2018 13:05:15</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>05/14/2018 13:05:15</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>05/14/2018 13:05:15</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>05/14/2018 13:05:15</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/ReportBankBook.aspx">
+      <publishTime>05/14/2018 13:05:16</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/ReportCashBook.aspx">
+      <publishTime>05/14/2018 13:05:16</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/ReportLedgerBook.aspx">
+      <publishTime>05/14/2018 13:05:16</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rpt-receive-site.aspx">
+      <publishTime>06/04/2014 17:33:54</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptBalanceSheet.aspx">
+      <publishTime>05/14/2018 13:05:16</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptChartofAcc.aspx">
+      <publishTime>05/14/2018 13:05:16</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptCheckRegister.aspx">
+      <publishTime>05/14/2018 13:05:16</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/RptCreditVoucher.aspx">
+      <publishTime>05/14/2018 13:05:16</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/RptCreditVoucherEdit.aspx">
+      <publishTime>05/14/2018 13:05:16</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptInStatement.aspx">
+      <publishTime>05/14/2018 13:05:16</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptMultipleVoucher.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptMultipleVoucherEdit.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptNotesAccount.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptProjectExpense.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptReceiptPaymentState.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptReceiptPaymentStateSelected.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptRecPayDet.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptTransactionList.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptTrialBalance.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/Report/rptTrialBalanceDetails.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/BalanceSheet.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/Cheque_register.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/par-rec-site.aspx">
+      <publishTime>05/29/2014 16:21:14</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/ProjectExpenseStatement.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptBankBook.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptCashBook.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptIncomeST.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptLedgerBook.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptNotesAcc.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptReceiptsPayStat.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptReceiptsPayStatSeleted.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptRecPayDet.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptTransList.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/RptTrialBalance.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/Report/UI/TrialBalanceDetails.aspx">
+      <publishTime>05/14/2018 13:05:17</publishTime>
+    </File>
+    <File Include="Accounts/UI/ChartofAccounts.aspx">
+      <publishTime>05/14/2018 13:05:18</publishTime>
+    </File>
+    <File Include="Accounts/UI/CostPool.aspx">
+      <publishTime>05/14/2018 13:05:18</publishTime>
+    </File>
+    <File Include="Accounts/UI/EditSingleVoucher.aspx">
+      <publishTime>05/14/2018 13:05:18</publishTime>
+    </File>
+    <File Include="Accounts/UI/MultipleVoucher.aspx">
+      <publishTime>05/14/2018 13:05:18</publishTime>
+    </File>
+    <File Include="Accounts/UI/OpeningBalance.aspx">
+      <publishTime>05/14/2018 13:05:18</publishTime>
+    </File>
+    <File Include="Accounts/UI/Process.aspx">
+      <publishTime>05/14/2018 13:05:18</publishTime>
+    </File>
+    <File Include="Accounts/UI/Process_Pay.aspx">
+      <publishTime>05/14/2018 13:05:18</publishTime>
+    </File>
+    <File Include="Accounts/UI/Process_Rec.aspx">
+      <publishTime>05/14/2018 13:05:18</publishTime>
+    </File>
+    <File Include="Accounts/UI/SingleTransaction.aspx">
+      <publishTime>05/14/2018 13:05:18</publishTime>
+    </File>
+    <File Include="Admission/loader.gif">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Admission/Report/AdmissionReportPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/admitCardPrint.aspx">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/base64.js">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/CourseEnrollPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/CourseRegPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/dept_info.aspx">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/FeesCollectionReportPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/FessCollectionStudentWiseaspxPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/html2canvas.js">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/jquery.base64.js">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/jquery.js">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/jspdf.js">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/MarkingReport.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/MoneyReceipt.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/MOnthlySalaryReportPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/post_info.aspx">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/RegistrationSummaryView.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/ResultPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/ResultsByStudentPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/rptMoneyReceipt.aspx">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/sprintf.js">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/StudentLedgerReport.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/StudentReportPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/studentWiseResult_.aspx">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/Student_wise_due_statement_Report.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/Student_wise_due_statment.aspx">
+      <publishTime>05/26/2015 17:02:46</publishTime>
+    </File>
+    <File Include="Admission/Report/Student_wise_due_statment_Report.aspx">
+      <publishTime>05/27/2015 15:43:21</publishTime>
+    </File>
+    <File Include="Admission/Report/tableExport.js">
+      <publishTime>05/14/2018 13:05:21</publishTime>
+    </File>
+    <File Include="Admission/Report/Test.html">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/TransReportPrint.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/AdmissionReport.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/admit.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/AdmitionReport.aspx">
+      <publishTime>12/30/2014 16:46:59</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/CourseEnrollment.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/CoursesOfProgram.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/FeesReportPeriodicByTrans.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/FessCollectionStudentWiseaspx.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/MarkingRipoerForm.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/MonthlySalaryReport.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/ProgramList.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/ReceivableReport.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/RegistrationSummary.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/ResultCreate.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/ResultsByStudent.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/StudentLedger.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/StudentReport.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/StudentTotalResult.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/Student_wise_due_statement.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/Student_wise_due_statment.aspx">
+      <publishTime>05/27/2015 15:25:51</publishTime>
+    </File>
+    <File Include="Admission/Report/UMS Reports/TransReport.aspx">
+      <publishTime>05/14/2018 13:05:20</publishTime>
+    </File>
+    <File Include="Admission/select2.full.min.js">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Admission/select2.min.css">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Admission/select2.min.js">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Admission/UI/add_batch.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Admission.aspx">
+      <publishTime>05/14/2018 13:05:22</publishTime>
+    </File>
+    <File Include="Admission/UI/AdmissionTest.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/ApplicationForReg.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/ApplicationForReg1.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Collection.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/CourseInfo.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/course_assign.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Course_reg.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Course_reg_old.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Department.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/EmployeeSalary.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Fees.aspx">
+      <publishTime>12/18/2014 12:02:30</publishTime>
+    </File>
+    <File Include="Admission/UI/Member.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/migration.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Post.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Process.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Program.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Receipt.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/receipt.html">
+      <publishTime>12/17/2014 11:09:18</publishTime>
+    </File>
+    <File Include="Admission/UI/Receivable.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Results.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/result_.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/SALDRCR.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Semester.aspx">
+      <publishTime>05/14/2018 13:05:23</publishTime>
+    </File>
+    <File Include="Admission/UI/Trans_Form.aspx">
+      <publishTime>01/28/2015 14:32:05</publishTime>
+    </File>
+    <File Include="BarCode.txt">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="BarCodeGenerate.exe">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/14/2018 13:06:08</publishTime>
+    </File>
+    <File Include="bin/AlchemyAccounting.dll">
+      <publishTime>07/10/2018 12:49:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.mshtml.dll">
+      <publishTime>07/31/2013 18:43:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>02/20/2011 18:40:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>02/20/2011 18:40:08</publishTime>
+    </File>
+    <File Include="bin/Spire.License.dll">
+      <publishTime>05/14/2018 13:10:01</publishTime>
+    </File>
+    <File Include="bin/Spire.Pdf.dll">
+      <publishTime>05/14/2018 13:10:01</publishTime>
+    </File>
+    <File Include="Cam/CS.aspx">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Cam/Webcam_Plugin/jquery.webcam.js">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Cam/Webcam_Plugin/jscam.swf">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Cam/Webcam_Plugin/jscam_canvas_only.swf">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="cbiu/css/bootstrap.min.css">
+      <publishTime>05/14/2018 13:06:24</publishTime>
+    </File>
+    <File Include="cbiu/css/font-awesome.min.css">
+      <publishTime>05/14/2018 13:06:24</publishTime>
+    </File>
+    <File Include="cbiu/css/styles.css">
+      <publishTime>05/14/2018 13:06:24</publishTime>
+    </File>
+    <File Include="cbiu/fonts/fontawesome-webfont.eot">
+      <publishTime>05/14/2018 13:06:25</publishTime>
+    </File>
+    <File Include="cbiu/fonts/fontawesome-webfont.svg">
+      <publishTime>05/14/2018 13:06:25</publishTime>
+    </File>
+    <File Include="cbiu/fonts/fontawesome-webfont.ttf">
+      <publishTime>05/14/2018 13:06:25</publishTime>
+    </File>
+    <File Include="cbiu/fonts/fontawesome-webfont.woff">
+      <publishTime>05/14/2018 13:06:25</publishTime>
+    </File>
+    <File Include="cbiu/fonts/FontAwesome.otf">
+      <publishTime>05/14/2018 13:06:25</publishTime>
+    </File>
+    <File Include="cbiu/images/campus.jpg">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="cbiu/images/campus.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="cbiu/images/homeImage.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="cbiu/images/logo.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="cbiu/index.html">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="cbiu/js/bootstrap.min.js">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="cbiu/js/jquery-2.1.3.js">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="cbiu/js/scripts.js">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="cbiu/signin.aspx">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>05/14/2018 13:05:24</publishTime>
+    </File>
+    <File Include="css/buttons.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_diagonals-thick_18_b81900_40x40.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_diagonals-thick_20_666666_40x40.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_flat_10_000000_40x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_glass_100_f6f6f6_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_glass_100_fdf5ce_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_gloss-wave_35_f6a828_500x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_highlight-soft_100_eeeeee_1x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-bg_highlight-soft_75_ffe45c_1x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-icons_222222_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-icons_228ef1_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-icons_454545_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-icons_888888_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-icons_ef8c08_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-icons_ffd27a_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/img/ui-icons_ffffff_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/jquery-ui-1.8.16.custom.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-bg_flat_30_cccccc_40x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-bg_flat_50_5c5c5c_40x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-bg_glass_20_555555_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-bg_glass_40_0078a3_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-bg_glass_40_ffc73d_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-bg_gloss-wave_25_333333_500x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-bg_highlight-soft_80_eeeeee_1x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-bg_inset-soft_25_000000_1x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-bg_inset-soft_30_f58400_1x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-icons_222222_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-icons_4b8e0b_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-icons_a83300_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-icons_cccccc_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/images/ui-icons_ffffff_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/jquery-ui.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-darkness/jquery.ui.theme.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-icons_222222_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-icons_228ef1_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-icons_ef8c08_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-icons_ffd27a_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/images/ui-icons_ffffff_256x240.png">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/jquery-ui.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css/ui-lightness/jquery.ui.theme.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css2/animate.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css2/bootstrap.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css2/bootstrap.min.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css2/font-awesome.min.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css2/main.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="css2/prettyPhoto.css">
+      <publishTime>05/14/2018 13:06:29</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>05/14/2018 13:06:30</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>05/14/2018 13:06:30</publishTime>
+    </File>
+    <File Include="Global.cs">
+      <publishTime>01/10/2015 11:12:01</publishTime>
+    </File>
+    <File Include="Global1.asax">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="HtmlPage1.html">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/AddNewitem.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/btnNo.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/btnyes.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/Cancel.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/Cencel.png">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/checkmark.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/Close.gif">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/delete.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/Delete.png">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/Edit.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/Edit.png">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/favicon.ico">
+      <publishTime>05/15/2014 13:47:18</publishTime>
+    </File>
+    <File Include="Images/grad_dark.png">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/header.gif">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/InitialImage.png">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>05/15/2014 13:41:48</publishTime>
+    </File>
+    <File Include="Images/print.gif">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/printer.png">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/SelectedButton.png">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/templatemo_bottom.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/templatemo_button.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/templatemo_header.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/templatemo_menu_current.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/templatemo_post_bottom.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/templatemo_post_title.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/templatemo_section_bottom.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/templatemo_section_title.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/update.jpg">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="Images/update.png">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="img/logon/1.jpg">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="img/logon/2.png">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="img/logon/3.jpg">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="img/logon/4.jpg">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="img/logon/5.jpg">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="Index.html">
+      <publishTime>05/14/2018 13:05:27</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="js/html5shiv.js">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="js/jquery.isotope.min.js">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="js/jquery.prettyPhoto.js">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="js/main.js">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="js/respond.min.js">
+      <publishTime>05/14/2018 13:06:38</publishTime>
+    </File>
+    <File Include="Login/UI/Login.aspx">
+      <publishTime>05/14/2018 13:05:28</publishTime>
+    </File>
+    <File Include="Login/UI/RegistrationForm.aspx">
+      <publishTime>05/14/2018 13:05:28</publishTime>
+    </File>
+    <File Include="Login/UI/SignIn.aspx">
+      <publishTime>05/14/2018 13:05:29</publishTime>
+    </File>
+    <File Include="MyStyle.css">
+      <publishTime>05/14/2018 13:05:29</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/14/2018 13:07:41</publishTime>
+    </File>
+    <File Include="payroll/commission/CommissionCreate.aspx">
+      <publishTime>10/18/2014 17:48:46</publishTime>
+    </File>
+    <File Include="payroll/invoice/InvoiceCreate.aspx">
+      <publishTime>10/18/2014 18:11:50</publishTime>
+    </File>
+    <File Include="payroll/report/ui/commission.aspx">
+      <publishTime>07/05/2014 15:11:34</publishTime>
+    </File>
+    <File Include="payroll/report/ui/employee-payment.aspx">
+      <publishTime>07/24/2014 21:06:22</publishTime>
+    </File>
+    <File Include="payroll/report/ui/rpt-employee-info-form.aspx">
+      <publishTime>07/16/2014 21:26:03</publishTime>
+    </File>
+    <File Include="payroll/report/ui/rpt-workingHour-Daily-Form.aspx">
+      <publishTime>07/15/2014 15:10:05</publishTime>
+    </File>
+    <File Include="payroll/report/ui/rpt-workingHour-Periodic-Form.aspx">
+      <publishTime>07/15/2014 15:14:04</publishTime>
+    </File>
+    <File Include="payroll/report/ui/rpt-workingHour-Periodic-Site-Form.aspx">
+      <publishTime>07/16/2014 21:21:49</publishTime>
+    </File>
+    <File Include="payroll/report/ui/salary-sheet.aspx">
+      <publishTime>08/20/2014 18:31:27</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/CommissionCreateReport.aspx">
+      <publishTime>08/07/2014 17:04:19</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-commission.aspx">
+      <publishTime>07/13/2014 14:17:02</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-emp-Info.aspx">
+      <publishTime>07/12/2014 13:13:38</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-emp-pay.aspx">
+      <publishTime>09/22/2014 18:16:28</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-Invoice.aspx">
+      <publishTime>07/16/2014 21:17:18</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-quotation.aspx">
+      <publishTime>11/24/2014 18:04:43</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-Salary-Sheet.aspx">
+      <publishTime>07/16/2014 20:12:59</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-single-employee-info.aspx">
+      <publishTime>07/24/2014 11:15:15</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-workingHour-Daily.aspx">
+      <publishTime>07/16/2014 21:24:35</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-workingHour-Periodic-Site.aspx">
+      <publishTime>07/15/2014 15:03:48</publishTime>
+    </File>
+    <File Include="payroll/report/vis-report/rpt-workingHour-Periodic.aspx">
+      <publishTime>07/16/2014 21:25:14</publishTime>
+    </File>
+    <File Include="payroll/ui/emp-info.aspx">
+      <publishTime>10/18/2014 17:14:53</publishTime>
+    </File>
+    <File Include="payroll/ui/emp-process.aspx">
+      <publishTime>07/16/2014 21:20:55</publishTime>
+    </File>
+    <File Include="payroll/ui/hr-sal.aspx">
+      <publishTime>08/18/2014 14:03:17</publishTime>
+    </File>
+    <File Include="payroll/ui/payroll-holiday.aspx">
+      <publishTime>06/04/2014 11:19:26</publishTime>
+    </File>
+    <File Include="payroll/ui/payroll-hour.aspx">
+      <publishTime>09/21/2014 16:49:26</publishTime>
+    </File>
+    <File Include="payroll/ui/quotation.aspx">
+      <publishTime>10/25/2014 17:34:29</publishTime>
+    </File>
+    <File Include="Permission.aspx">
+      <publishTime>11/18/2015 04:12:42</publishTime>
+    </File>
+    <File Include="Permission_form.aspx">
+      <publishTime>05/14/2018 13:05:29</publishTime>
+    </File>
+    <File Include="report.css">
+      <publishTime>05/14/2018 13:07:44</publishTime>
+    </File>
+    <File Include="Scripts/custom.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.2.min.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.8.2.min.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.0.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.11.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.11.min.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.16.custom.min.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.24.custom.min.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.autocomplete.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.button.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.combobox.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.core.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.position.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.widget.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate-vsdoc.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftAjax.debug.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftAjax.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcAjax.debug.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcAjax.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcValidation.debug.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Scripts/MicrosoftMvcValidation.js">
+      <publishTime>05/14/2018 13:05:31</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>05/14/2018 13:05:32</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rpt-category-closing-stock.aspx">
+      <publishTime>04/16/2014 16:21:46</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rpt-item-closing-stock.aspx">
+      <publishTime>04/07/2014 13:15:32</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptClosingStkBuySaleRT.aspx">
+      <publishTime>02/24/2014 15:10:46</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptClosingStock.aspx">
+      <publishTime>02/24/2014 15:10:30</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptDeliveryOrder.aspx">
+      <publishTime>04/01/2014 19:35:10</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptDeliveryOrderEdit.aspx">
+      <publishTime>09/21/2013 16:44:50</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptItem.aspx">
+      <publishTime>02/18/2014 17:59:46</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptItemRegister.aspx">
+      <publishTime>05/04/2014 20:26:50</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptItemStockStore.aspx">
+      <publishTime>02/24/2014 15:12:36</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptPartyStatement.aspx">
+      <publishTime>04/28/2014 12:20:00</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptPartySumStatement.aspx">
+      <publishTime>04/28/2014 12:34:20</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptPurchaseMemo.aspx">
+      <publishTime>07/04/2013 13:06:04</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptPurchaseMemoEdit.aspx">
+      <publishTime>07/04/2013 13:30:14</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptSaleMemo.aspx">
+      <publishTime>04/16/2014 16:37:26</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptSaleMemoEdit.aspx">
+      <publishTime>09/21/2013 14:47:58</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptSalePurchaseReturnMemo.aspx">
+      <publishTime>09/23/2013 12:31:48</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptSalePurchaseReturnMemoEdit.aspx">
+      <publishTime>09/23/2013 11:41:22</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptSummarizedStatement.aspx">
+      <publishTime>09/16/2013 19:03:36</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptTransferMemo.aspx">
+      <publishTime>07/04/2013 13:30:10</publishTime>
+    </File>
+    <File Include="Stock/Report/Report/rptTransferMemoEdit.aspx">
+      <publishTime>07/04/2013 13:30:48</publishTime>
+    </File>
+    <File Include="Stock/Report/UI/category-closing-stock.aspx">
+      <publishTime>04/07/2014 13:50:52</publishTime>
+    </File>
+    <File Include="Stock/Report/UI/ClosingStkBuySaleRT.aspx">
+      <publishTime>04/07/2014 12:40:36</publishTime>
+    </File>
+    <File Include="Stock/Report/UI/ClosingStock.aspx">
+      <publishTime>04/07/2014 13:18:30</publishTime>
+    </File>
+    <File Include="Stock/Report/UI/item-closing-stock.aspx">
+      <publishTime>04/07/2014 12:41:00</publishTime>
+    </File>
+    <File Include="Stock/Report/UI/ItemStockStore.aspx">
+      <publishTime>05/27/2013 13:25:20</publishTime>
+    </File>
+    <File Include="Stock/Report/UI/PartyStatement.aspx">
+      <publishTime>09/16/2013 16:51:34</publishTime>
+    </File>
+    <File Include="Stock/Report/UI/PartySumStatement.aspx">
+      <publishTime>09/16/2013 17:52:58</publishTime>
+    </File>
+    <File Include="Stock/Report/UI/RptItemRegister.aspx">
+      <publishTime>05/27/2013 11:19:04</publishTime>
+    </File>
+    <File Include="Stock/Report/UI/SumarizedStatement.aspx">
+      <publishTime>09/16/2013 18:46:22</publishTime>
+    </File>
+    <File Include="Stock/UI/CatItemEntry.aspx">
+      <publishTime>04/07/2014 13:24:16</publishTime>
+    </File>
+    <File Include="Stock/UI/EditPSEntry.aspx">
+      <publishTime>05/25/2014 12:49:22</publishTime>
+    </File>
+    <File Include="Stock/UI/PartySupEntry.aspx">
+      <publishTime>05/25/2014 12:46:44</publishTime>
+    </File>
+    <File Include="Stock/UI/StoreEntry.aspx">
+      <publishTime>09/16/2013 11:29:32</publishTime>
+    </File>
+    <File Include="Stock/UI/StoreTrans.aspx">
+      <publishTime>05/03/2014 20:58:40</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>05/14/2018 13:05:34</publishTime>
+    </File>
+    <File Include="user_management/ui/create-user.aspx">
+      <publishTime>05/14/2018 13:07:44</publishTime>
+    </File>
+    <File Include="user_management/ui/edit-cr-user.aspx">
+      <publishTime>05/14/2018 13:07:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/10/2018 12:50:07</publishTime>
+    </File>
+    <File Include="Web_2.Master">
+      <publishTime>05/14/2018 13:06:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

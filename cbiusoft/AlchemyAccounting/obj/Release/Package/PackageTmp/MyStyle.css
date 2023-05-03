@@ -1,0 +1,101 @@
+﻿.AutoExtender {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: .8em;
+    font-weight: normal;
+    border: solid 1px #006699;
+    line-height: 20px;
+    padding: 10px;
+    background-color: White;
+    max-height: 200px;
+    list-style: none;
+    overflow: scroll;
+    border: 1px solid #4079ae;
+    border-radius: 5px;
+}
+
+.AutoExtenderList {
+    border-bottom: dotted 1px #006699;
+    cursor: pointer;
+    color: #808080;
+}
+
+.AutoExtenderHighlight {
+    color: #1674c4;
+    background-color: #ddd;
+    cursor: pointer;
+    font-size: 15px;
+    border: 1px solid #808080;
+    border-radius: 4px;
+}
+
+#divwidth1 {
+    width: auto !important;
+    height: 180px !important;
+}
+
+    #divwidth1 div {
+        width: auto !important;
+    }
+
+.Grid {
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+    font-family: Calibri;
+    color: #474747;
+   border: 1px solid black;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+
+    .Grid td {
+        padding: 2px;
+        border: solid 1px #c1c1c1;
+    }
+
+    .Grid th {
+        padding: 4px 2px;
+        color: #fff;
+        background: RGBA(102, 84, 50, 0.6);
+        border-left: solid 1px #525252;
+        font-size: 0.9em;
+    }
+
+    .Grid tr:hover {
+        background-color: #ddd;
+        color: Black;
+        font-weight: bold;
+    }
+
+    .Grid .alt {
+        background: #fcfcfc url(Images/grid-alt.png) repeat-x top;
+    }
+
+    .Grid .pgr {
+        background: #363670 url(Images/grid-pgr.png) repeat-x top;
+    }
+
+        .Grid .pgr table {
+            margin: 3px 0;
+        }
+
+        .Grid .pgr td {
+            border-width: 0;
+            padding: 0 6px;
+            border-left: solid 1px #666;
+            font-weight: bold;
+            color: #fff;
+            line-height: 12px;
+        }
+
+        .Grid .pgr a {
+            color: Gray;
+            text-decoration: none;
+        }
+
+            .Grid .pgr a:hover {
+                color: #000;
+                text-decoration: none;
+            }

@@ -1,0 +1,438 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="AlchemyAccounting.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link rel="shortcut icon" href="Images/favicon.ico" />
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <%--<script src="Scripts/jquery-1.4.1.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-1.8.2.min.js" type="text/javascript"></script>--%>
+
+    <link href="MyStyle.css" rel="stylesheet" />
+
+    <style type="text/css">
+        #headbtn {
+            float: right;
+            width: 20%;
+            margin-top: 8px;
+        }
+
+        .right {
+            float: right;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .left {
+            float: left;
+        }
+
+        .AutoColor {
+            border: double;
+            border-width: 2px;
+            border-radius: 10px;
+            border-color: #808080;
+            background-color: #dddadb;
+            list-style: decimal;
+        }
+
+        .menulu {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            height: 35px;
+            background-color: #0f375b;
+        }
+
+            .menulu li {
+                float: left;
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+
+            .menulu a {
+                text-decoration: none;
+                color: #FFF;
+                font-size: 11px;
+                text-transform: uppercase;
+                padding: 10px 10px 5px 10px;
+                display: inline-block;
+                border-bottom: 5px solid #0f375b;
+            }
+
+                .menulu a:hover {
+                    border-bottom: 5px solid #FFF;
+                }
+
+            .menulu .sap {
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            .menulu .active {
+                border-bottom: 5px solid #4079ae;
+            }
+
+            .menulu .first {
+                padding-left: 20px;
+            }
+
+        .pt10 {
+            padding-top: 10px;
+        }
+
+        .menulu li .submenu {
+            padding-left: 0;
+            background: #0f375b;
+            list-style: none;
+            position: absolute;
+            margin-left: -28px;
+            display: none;
+            z-index: 999;
+            border-radius: 10px;
+        }
+
+            .menulu li .submenu li {
+                display: block;
+                float: none;
+                padding-left: 37px;
+                padding-right: 56px;
+            }
+
+                .menulu li .submenu li:last-child {
+                    padding-bottom: 5px;
+                }
+
+        .menulu li:hover .submenu {
+            display: block;
+        }
+
+        .menulu li .submenu li a {
+            text-decoration: none;
+            color: #FFF;
+            font-size: 11px;
+            text-transform: uppercase;
+            padding: 0px 0px 6px 0px;
+            display: inline-block;
+        }
+
+        .AutoExtender {
+            font-family: Verdana, Helvetica, sans-serif;
+            font-size: .8em;
+            font-weight: normal;
+            border: solid 1px #006699;
+            line-height: 20px;
+            padding: 10px;
+            background-color: White;
+            max-height: 200px;
+            list-style: none;
+            overflow: scroll;
+            border: 1px solid #4079ae;
+            border-radius: 5px;
+        }
+
+        .AutoExtenderList {
+            border-bottom: dotted 1px #006699;
+            cursor: pointer;
+            color: #808080;
+        }
+
+        .AutoExtenderHighlight {
+            color: #1674c4;
+            background-color: #ddd;
+            cursor: pointer;
+            font-size: 15px;
+            border: 1px solid #808080;
+            border-radius: 4px;
+        }
+
+        #divwidth1 {
+            width: auto !important;
+            height: 180px !important;
+        }
+
+            #divwidth1 div {
+                width: auto !important;
+            }
+
+        .Grid {
+            background-color: #fff;
+            margin: 5px 0 10px 0;
+            border: solid 1px #525252;
+            border-collapse: collapse;
+            font-family: Calibri;
+            color: #474747;
+            font-size: 12pt;
+        }
+
+            .Grid td {
+                padding: 2px;
+                border: solid 1px #c1c1c1;
+            }
+
+            .Grid th {
+                padding: 4px 2px;
+                color: #fff;
+                background: #dddadb url(/Images/templatemo_header.jpg) repeat-x top;
+                border-left: solid 1px #525252;
+                font-size: 10pt;
+                text-align: center;
+            }
+
+            .Grid .alt {
+                background: #fcfcfc url(Images/grid-alt.png) repeat-x top;
+            }
+
+            .Grid .pgr {
+                background: #363670 url(Images/grid-pgr.png) repeat-x top;
+            }
+
+                .Grid .pgr table {
+                    margin: 3px 0;
+                }
+
+                .Grid .pgr td {
+                    border-width: 0;
+                    padding: 0 6px;
+                    border-left: solid 1px #666;
+                    font-weight: bold;
+                    color: #fff;
+                    line-height: 12px;
+                }
+
+                .Grid .pgr a {
+                    color: Gray;
+                    text-decoration: none;
+                }
+
+            .Grid tr:hover {
+                color: #c60a0a;
+                text-decoration: none;
+                background-color: #f3eab2;
+                font-weight: bold;
+            }
+    </style>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color: #ebe8e8">
+    <form id="Form1" runat="server">
+        <asp:ScriptManager ID="sads" runat="server"></asp:ScriptManager>
+        <div class="page" style="width: 90%; margin: 0 auto">
+            <div class="header">
+                <div class="title">
+                    <h1>Welcome To Cox's Bazar International University
+                    </h1>
+                </div>
+                <div class="loginDisplay">
+                    <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                        <AnonymousTemplate>
+                            <asp:Button ID="btnLogOut" runat="server" CssClass="btn btn-primary right" Text="Log Out" OnClick="btnLogOut_Click" />
+                            &nbsp;&nbsp;
+                            
+                            <asp:UpdatePanel ID="asdsa" runat="server" style="display: inline-block;">
+                                <ContentTemplate>
+                                    <asp:Button ID="btnsessionTime" runat="server" CssClass="btn btn-danger right" Text="Increase Session++" OnClick="btnsessionTime_Click" />
+                                </ContentTemplate>
+                            </asp:UpdatePanel>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            hi! <span class="bold">
+                                <asp:LoginName ID="HeadLoginName" runat="server" />
+                            </span>! [
+                        <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out"
+                            LogoutPageUrl="~/Login/UI/Login.aspx" />
+                            ]
+                        </LoggedInTemplate>
+
+                    </asp:LoginView>
+                </div>
+                <div class="clear hideSkiplink">
+                    <div id="headbtn">
+                        <asp:Label ID="lblUser" runat="server"></asp:Label>
+                        <div style="float: right; margin-right: 10px;">
+                            <asp:Button ID="btnExit" runat="server" Text="Exit" Font-Bold="True" Font-Italic="False"
+                                ForeColor="#FF9900" OnClick="btnExit_Click" />
+                        </div>
+                    </div>
+                    <%--  <div class="pt10">--%>
+                    <ul class="menulu">
+                        <% if (Session["UserTp"].ToString() == "ADMIN")
+                           { %>
+                        <li class="first"><a href="#">Account Inputs</a>
+                            <ul class="submenu">
+                                <li><a href="/Accounts/UI/SingleTransaction.aspx">Single Transaction Entry</a> </li>
+                                <li style="border-bottom: 2px solid #fff;"><a href="/Accounts/UI/MultipleVoucher.aspx">Muliple Voucher Entry</a> </li>
+                                <li><a href="/Accounts/UI/ChartofAccounts.aspx">Chart of Accounts Entry</a> </li>
+                                <%--<li><a href="/Stock/UI/PartySupEntry.aspx">Party & Supplier Entry</a> </li>--%>
+                                <%--<li><a href="/Accounts/UI/CostPool.aspx">Cost Pool Entry</a> </li>--%>
+                                <li style="border-bottom: 2px solid #fff;"><a href="/Accounts/UI/OpeningBalance.aspx">Closing Balance Entry</a> </li>
+                                <li><a href="/Accounts/UI/Process.aspx">Process</a> </li>
+
+                            </ul>
+                        </li>
+                        <%--<li class="sap"><img src="Assets/image/menusap.png" /></li>--%>
+                        <li><a href="#">Account Reports</a>
+                            <ul class="submenu">
+                                <li><a href="/Accounts/Report/UI/RptCashBook.aspx">Cash Book</a> </li>
+                                <li><a href="/Accounts/Report/UI/RptBankBook.aspx">Bank Book</a> </li>
+                                <li style="border-bottom: 2px solid #fff;"><a href="/Accounts/Report/UI/RptLedgerBook.aspx">Ledger Book</a> </li>
+                                <li><a href="/Accounts/Report/UI/Cheque_register.aspx">Cheque Register</a> </li>
+                                <li><a href="/Accounts/Report/UI/RptReceiptsPayStat.aspx">Receipts & Payment Statement</a>
+                                </li>
+                                <li><a href="/Accounts/Report/UI/RptReceiptsPayStatSeleted.aspx">Receipts & Payment
+                                Statement Selected</a> </li>
+                                <li style="border-bottom: 2px solid #fff;"><a href="/Accounts/Report/UI/RptRecPayDet.aspx">Receipts & Payment Statement Details</a> </li>
+                                <li><a href="/Accounts/Report/UI/RptTrialBalance.aspx">Trial Balance</a> </li>
+                                <li style="border-bottom: 2px solid #fff;"><a href="/Accounts/Report/UI/TrialBalanceDetails.aspx">Trial Balance Details</a> </li>
+                                <li><a href="/Accounts/Report/UI/RptIncomeST.aspx">Income Statement</a> </li>
+                                <li><a href="/Accounts/Report/UI/BalanceSheet.aspx">Balance Sheet</a> </li>
+                                <li style="border-bottom: 2px solid #fff;"><a href="/Accounts/Report/UI/RptNotesAcc.aspx">Notes to the Accounts</a> </li>
+                                <li><a href="/Accounts/Report/UI/RptTransList.aspx">Transaction Listing</a> </li>
+                                <%--<li><a href="/payroll/report/ui/commission.aspx">Commission</a> </li>--%>
+                                <li>
+                                    <%--<a href="/Accounts/Report/UI/par-rec-site.aspx">Receive Against Site</a>--%>
+                                </li>
+                                <%--<li style="border-bottom: 2px solid #fff;"><a href="/Accounts/Report/UI/ProjectExpenseStatement.aspx">
+                                Project Wise Expense Statement</a> </li>--%>
+                                <li><a target="_blank" href="/Accounts/Report/Report/rptChartofAcc.aspx">Chart of Accounts</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="first"><a href="#">UMS Inputs(Finance)</a>
+                            <ul class="submenu">
+
+                                <li><a href="/Admission/UI/Collection.aspx">Collection</a> </li>
+                                <li><a href="/Admission/UI/Receivable.aspx">Receivable</a> </li>
+                                <%--<%} %>--%>
+                                <li><a href="/Admission/UI/Receipt.aspx">Fees Information</a> </li>
+
+                                <%--<li><a href="/Admission/UI/Course_reg.aspx">Course Registration</a> </li>--%>
+                            </ul>
+                        </li>
+                        <% }%>
+
+                        <%--<li class="first"><a href="#">Payroll Inputs</a>
+                        <ul class="submenu">
+                            <li><a href="/payroll/ui/emp-info.aspx">Employee Information</a> </li>
+                            <li><a href="/payroll/ui/payroll-hour.aspx">Employee Working Hour</a> </li>
+                            <li style="border-bottom: 2px solid #fff;"><a href="/payroll/ui/hr-sal.aspx">Employee
+                                Salary Information</a> </li>
+                            <li><a href="/payroll/invoice/InvoiceCreate.aspx">Invoice</a> </li>
+                            <li style="border-bottom: 2px solid #fff;"><a href="/payroll/commission/CommissionCreate.aspx">
+                                Commission </a></li>
+                            <li style="border-bottom: 2px solid #fff;"><a href="/payroll/ui/payroll-holiday.aspx">
+                                Holiday</a> </li>
+                            <li style="border-bottom: 2px solid #fff;"><a href="/payroll/ui/emp-process.aspx">Employee
+                                Process</a> </li>
+                            <li style="border-bottom: 2px solid #fff;"><a href="/payroll/ui/quotation.aspx">Quotation</a>
+                            </li>
+                        </ul>
+                    </li>--%>
+                        <%--<li class="first"><a href="#">Payroll Reports</a>--%>
+                        <%--<ul class="submenu">
+                            <li><a target="_blank" href="/payroll/report/vis-report/rpt-emp-Info.aspx">Employee
+                                Information</a> </li>
+                            <li><a href="/payroll/report/ui/employee-payment.aspx">Employee Payslip</a> </li>
+                            <li style="border-bottom: 2px solid #fff;"><a href="/payroll/report/ui/salary-sheet.aspx">
+                                Salary Sheet</a> </li>
+                            <li><a href="/payroll/report/ui/rpt-workingHour-Daily-Form.aspx">Working Hour(Details)
+                                -Daily </a></li>
+                            <li><a href="/payroll/report/ui/rpt-workingHour-Periodic-Site-Form.aspx">Working Hour(Summarized)
+                                -Site Wise </a></li>
+                            <li><a href="/payroll/report/ui/rpt-workingHour-Periodic-Form.aspx">Working Hour(Summarized)
+                                - Periodic </a></li>
+                            <li><a href="/payroll/report/ui/rpt-employee-info-form.aspx">Employee Information -
+                                Periodic </a></li>--%>
+                        <%--<li style="border-bottom: 2px solid #fff;"><a href="/payroll/ui/payroll-hour.aspx">Employee
+                                Working Hour</a> </li>
+                            <li style="border-bottom: 2px solid #fff;"><a href="/payroll/ui/payroll-holiday.aspx">
+                                Holiday</a> </li>--%>
+                        <%-- </ul>
+                    </li>--%>
+
+                        <li class="first"><a href="#">UMS Inputs</a>
+                            <ul class="submenu">
+                                <li><a href="/admission/ui/admission.aspx">Application Form</a> </li>
+                                <li style="border-bottom: 2px solid #fff;"><a href="/admission/ui/applicationforreg.aspx">Registration Form</a> </li>
+                                <li><a href="/Admission/UI/Semester.aspx">Semester Information</a> </li>
+                                <li><a href="/Admission/UI/Program.aspx">Program Information</a> </li>
+                                <li><a href="/Admission/UI/CourseInfo.aspx">Course Information</a> </li>
+                                <li><a href="/Admission/UI/AdmissionTest.aspx">Admission Test</a> </li>
+                                <li style="border-top:1PX solid #FFF"><a  href="/Admission/UI/course_assign.aspx">Course Assign</a> </li>
+                                <li><a href="/Admission/UI/Course_reg.aspx">Course Registration</a> </li> 
+                                <li><a href="/Admission/UI/Results.aspx" target="_blank">Results Input</a> </li>
+                                <li><a href="/Admission/report/UMS Reports/admit.aspx" >Admit Card</a> </li>
+                                 
+                            </ul>
+                        </li>
+                        <li class="first"><a href="#">UMS Reports</a>
+                            <ul class="submenu">
+                                <li><a href="/Admission/Report/UMS Reports/ProgramList.aspx" target="_blank">List of
+                                Program </a></li>
+                                <li><a href="/Admission/Report/UMS Reports/CoursesOfProgram.aspx" target="_blank">List
+                                of Courses(Program)</a> </li>
+                                <li><a href="/Admission/Report/UMS Reports/CourseEnrollment.aspx" target="_blank">Course
+                                Enrollment</a> </li>
+                                <li><a href="/Admission/Report/UMS Reports/AdmissionReport.aspx" target="_blank">Admission Report</a> </li>
+
+                                <li><a href="/Admission/Report/UMS Reports/ResultCreate.aspx" target="_blank">Result By Course</a> </li>
+                                <li><a href="Admission/Report/UMS Reports/StudentTotalResult.aspx" target="_blank">Results By Student</a> </li>
+
+                                <li><a href="/Admission/Report/UMS Reports/StudentReport.aspx" target="_blank">Student Report</a> </li>
+                                <%--<% if (Session["UserTp"].ToString()  == "ADMIN")
+                             { %>--%>
+                                <li><a href="/Admission/Report/UMS Reports/TransReport.aspx" target="_blank">Collection Report</a> </li>
+                                <li><a href="/Admission/Report/UMS Reports/StudentLedger.aspx" target="_blank">Student Ledger Report</a> </li>
+                                <li><a href="/Admission/Report/UMS Reports/Student_wise_due_statement.aspx" target="_blank">Student Wise Due Statement</a> </li>
+                                <li><a href="/Admission/Report/UMS Reports/FeesReportPeriodicByTrans.aspx" target="_blank">Fees Collectin Report</a> </li>
+                                <li><a href="/Admission/Report/UMS Reports/FessCollectionStudentWiseaspx.aspx" target="_blank">Fees Collection(Student Wise)</a> </li>
+                                <li><a href="/Admission/Report/UMS Reports/MonthlySalaryReport.aspx">Monthly Salary Report</a> </li>
+                                <%--<%} %>--%>
+                                <li><a href="/Admission/Report/UMS Reports/MarkingRipoerForm.aspx">Result Sheet</a> </li>
+                                <li><a href="/Accounts/UI/Process_Rec.aspx">Process Receivable</a> </li>
+                                <li style="border-top: 1px solid #808080"><a href="/Admission/Report/UMS Reports/RegistrationSummary.aspx" target="_blank">Registration Summary</a> </li>
+                                <%--<li><a href="/Admission/UI/AdmissionTest.aspx">Admission Test</a> </li>--%>
+                                <%--<li><a href="/Admission/UI/Course_reg.aspx">Course Registration</a> </li>--%>
+                            </ul>
+                        </li>
+                        <% if (Session["UserTp"].ToString() == "ADMIN")
+                           { %>
+                        <li><a href="#">Payroll</a>
+                            <ul class="submenu">
+                                <li><a href="/Admission/UI/Post.aspx">Post Information</a> </li>
+                                <li><a href="/Admission/UI/Department.aspx">Department Information</a> </li>
+                                <li><a href="/Admission/UI/Member.aspx">Employee Information</a> </li>
+                                <li><a href="/Admission/UI/Saldrcr.aspx">Devit & Credit</a> </li>
+                                <li><a href="/Admission/UI/Process.aspx">Processing</a> </li>
+
+                            </ul>
+                        </li>
+                        <%} %>
+                        <% if (Session["UserTp"].ToString() == "ADMIN")
+                           { %>
+                        <li><a href="/user_management/ui/create-user.aspx">Create User</a>
+
+                        </li>
+                        <% }%>
+                    </ul>
+                </div>
+            </div>
+            <div class="main">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="footer">
+            Developed By : <a target="_blank" href="http://www.alchemy-bd.com/">Alchemy Software</a>
+        </div>
+    </form>
+</body>
+</html>

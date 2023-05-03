@@ -1,0 +1,193 @@
+E:\WorkPlace\Helmi\On Going\16-Nov-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+E:\WorkPlace\Helmi\On Going\16-Nov-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+E:\WorkPlace\Helmi\On Going\16-Nov-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+E:\WorkPlace\Helmi\On Going\16-Nov-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+E:\WorkPlace\Helmi\On Going\16-Nov-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+E:\WorkPlace\Cox'sbazar university\24-Nov-2014\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+E:\WorkPlace\Cox'sbazar university\24-Nov-2014\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+E:\WorkPlace\Cox'sbazar university\24-Nov-2014\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+E:\WorkPlace\Cox'sbazar university\24-Nov-2014\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+E:\WorkPlace\Cox'sbazar university\24-Nov-2014\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\11-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\11-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\11-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\11-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\11-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\17-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\17-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\17-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\17-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\17-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\17-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\20-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\20-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\20-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\20-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\20-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\20-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\22-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\22-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\22-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\22-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\22-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\22-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\24-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\24-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\24-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\24-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\24-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\24-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\28-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\28-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\28-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\28-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\28-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\28-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\29-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\29-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\29-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\29-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\29-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\29-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\30-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\30-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\30-12-2014 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\30-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\30-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\30-12-2014 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\03-01-2015 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\03-01-2015 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\03-01-2015 Final\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\03-01-2015 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\03-01-2015 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\03-01-2015 Final\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\10-01-2015 Final  ------\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\10-01-2015 Final  ------\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\10-01-2015 Final  ------\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\10-01-2015 Final  ------\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\10-01-2015 Final  ------\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\10-01-2015 Final  ------\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-14-01-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\CoxBazar-14-01-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-14-01-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-14-01-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\CoxBazar-14-01-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-14-01-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-26-01-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\CoxBazar-26-01-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-26-01-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-26-01-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\CoxBazar-26-01-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-26-01-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-04-FAV-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\CoxBazar-04-FAV-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-04-FAV-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-04-FAV-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\CoxBazar-04-FAV-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-04-FAV-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-07-FAV-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\CoxBazar-07-FAV-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-07-FAV-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-07-FAV-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\CoxBazar-07-FAV-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-07-FAV-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-28-Feb-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+D:\asp raff\Cox Int Uni\CoxBazar-28-Feb-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-28-Feb-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+D:\asp raff\Cox Int Uni\CoxBazar-28-Feb-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+D:\asp raff\Cox Int Uni\CoxBazar-28-Feb-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+D:\asp raff\Cox Int Uni\CoxBazar-28-Feb-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-18-03-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+F:\asp raff\Cox Int Uni\CoxBazar-18-03-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-18-03-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-18-03-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+F:\asp raff\Cox Int Uni\CoxBazar-18-03-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-18-03-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-11-04-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+F:\asp raff\Cox Int Uni\CoxBazar-11-04-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-11-04-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-11-04-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+F:\asp raff\Cox Int Uni\CoxBazar-11-04-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-11-04-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-24-05-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+F:\asp raff\Cox Int Uni\CoxBazar-24-05-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-24-05-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-24-05-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+F:\asp raff\Cox Int Uni\CoxBazar-24-05-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-24-05-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-06-06-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+F:\asp raff\Cox Int Uni\CoxBazar-06-06-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-06-06-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-06-06-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+F:\asp raff\Cox Int Uni\CoxBazar-06-06-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-06-06-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-30-08-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+F:\asp raff\Cox Int Uni\CoxBazar-30-08-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-30-08-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+F:\asp raff\Cox Int Uni\CoxBazar-30-08-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+F:\asp raff\Cox Int Uni\CoxBazar-30-08-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+F:\asp raff\Cox Int Uni\CoxBazar-30-08-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+E:\PROJECT\Cox Int Uni\CoxBazar-04-11-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+E:\PROJECT\Cox Int Uni\CoxBazar-04-11-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+E:\PROJECT\Cox Int Uni\CoxBazar-04-11-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+E:\PROJECT\Cox Int Uni\CoxBazar-04-11-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+E:\PROJECT\Cox Int Uni\CoxBazar-04-11-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+E:\PROJECT\Cox Int Uni\CoxBazar-04-11-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+E:\PROJECT\Cox Int Uni\CoxBazar-14-11-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+E:\PROJECT\Cox Int Uni\CoxBazar-14-11-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+E:\PROJECT\Cox Int Uni\CoxBazar-14-11-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+E:\PROJECT\Cox Int Uni\CoxBazar-14-11-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+E:\PROJECT\Cox Int Uni\CoxBazar-14-11-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+E:\PROJECT\Cox Int Uni\CoxBazar-14-11-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.dll
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.dll
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.xml
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.xml
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+E:\PROJECT\Cox Int Uni\CoxBazar-07-12-2015\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.dll
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.dll
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.xml
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.xml
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+E:\RiazBackup\cbiu\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.dll
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.dll
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.xml
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.xml
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+E:\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.csprojResolveAssemblyReference.cache
+E:\Riaz\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+E:\Riaz\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+E:\Riaz\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+E:\Riaz\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.dll
+E:\Riaz\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.dll
+E:\Riaz\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.xml
+E:\Riaz\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.xml
+E:\Riaz\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+E:\Riaz\RiazBackup\Project\cbiu\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll.config
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.dll
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\AlchemyAccounting.pdb
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\Microsoft.ReportViewer.WebForms.dll
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.dll
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.dll
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\Microsoft.ReportViewer.Common.dll
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\Microsoft.mshtml.dll
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\Microsoft.ReportViewer.WebForms.xml
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\Spire.License.xml
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\bin\Spire.Pdf.xml
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.dll
+E:\Riaz\RiazBackup\Project\cbiusoft\AlchemyAccounting\AlchemyAccounting\obj\Release\AlchemyAccounting.pdb
